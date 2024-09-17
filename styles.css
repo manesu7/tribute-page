@@ -1,0 +1,94 @@
+
+body{
+  background-color: #F1E4F5;
+  margin:0 0 30px 0;
+  padding:  20px;
+}
+
+
+h1 {
+	font-family:Arvo;
+	font-size: 30px;
+	color: blue;
+}
+
+h2 {
+	font-family:Arvo;
+	font-size:28px;
+	color: #A80FCE;
+}
+
+h3{
+	font-family:Pacifico;
+	color:purple;		
+}
+h1,h2,h3 {
+	text-align:center;
+}
+
+p {
+  font-family: Arvo;
+  font-size: 14px;
+  text-align:justify;
+  line-height: 150%;
+  }
+
+#img-div {
+	background-color:pink;
+	border-radius:42px;
+	margin:0px auto 60px auto;
+	height: 60%;
+	width: 60%;
+	padding: 10px 40px;
+}
+
+#image{
+	display:block;
+	margin: 10px auto 20px auto;
+	max-width:100%;	
+	height:auto;
+}
+
+
+#tribute-info {
+	margin-bottom:20px;
+	
+}
+figure {
+  width:90%;
+  margin: auto;
+  padding:5px;
+}
+figcaption {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 15px;
+  margin-bottom: 10px;  
+  text-align:center;
+}
+
+
+ul {
+  margin: auto;
+  max-width: 700px;
+}
+li {
+  font-family: Arvo;
+  font-size: 16px;
+  margin: 20px 0;
+}
+
+#tribute-link {
+  text-decoration: none;
+}
+
+.link-readmore {
+	font-family: sans-serif;
+	text-align:center;
+	margin: 35px auto 35px auto;
+	font-size: 20px;
+	width:80%;
+}
+
+@media (max-width: 500px) {
+	
+}
